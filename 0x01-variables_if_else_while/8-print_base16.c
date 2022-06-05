@@ -14,6 +14,6 @@ int main(void)
 	putchar(i);
 	for (i = 0 ; i <= 5; i++)
 	putchar('a' + i);
-	putchar('\n')
+	putchar('\n');
 	return (0);
 }
