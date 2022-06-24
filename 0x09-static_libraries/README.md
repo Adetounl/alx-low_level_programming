@@ -1,1 +1,1 @@
-task 0-m
+task 0-s
